@@ -1,0 +1,188 @@
+<!--Created By sagar,nishad,naitik-->
+
+html, body
+{ 
+	margin: 0; 
+	padding: 0; 
+}
+body
+{
+	margin:0px;
+	padding:0px;
+	font-size:12px;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	background:#EBECDF;
+}
+a
+{
+	text-decoration:none;
+	color:black;
+	border: none !important;
+}
+.container
+{			
+	margin-right: auto; 
+	margin-left: auto; 
+	width: 960px;
+	height:90%;
+	min-height:600px;
+	border:solid 0px;
+	overflow:hidden;
+	background-color:grey;
+	border-color:#153450;
+}
+.logo
+{
+	width:960px;
+	height:150px;
+	border:solid 0px grey;		
+}
+.nav
+{
+	width:960px;
+	height:30px;
+	border:solid 0px;
+	background-color:#545251;
+	border-top:solid 1px ghostWhite;
+}
+.info
+{
+	display:table;
+	width:960px;
+	height:600px;
+	min-height:600px ;
+	max-height:600px ;
+	border:solid 0px;
+	overflow:hidden;
+	background-color:skyblue;
+	border-color:#EEEAE8;
+	table-layout: fixed;
+	
+}
+.block
+{
+	margin-top:35px;
+	margin-left:auto;
+	margin-right:auto;
+	width:96%;
+	height:250px;
+	overflow:hidden;
+}
+.library
+{
+	width:45%;
+	Height:240px;
+	padding:10px;
+	border-left:solid 5px #18365f;
+	border-Right:solid 5px #18365f;
+	float:left;
+}
+.NCC
+{
+	width:45%;
+	height:240px;
+	padding:10px;
+	float:right;
+	vertical-align:top;
+	border-Right:solid 5px #18365f;
+}
+.content
+{
+	display:table-cell;
+	padding:0px;
+	width:575px;
+	height:600px;
+	border:solid 0px;
+	background-color:#FFF;
+}
+.RightPanel
+{	
+	display:table-cell;
+	margin:0px;
+	padding:0px;
+	width:170px;
+	height:600px;
+	max-height:600px;
+	border:solid 0px;
+	background-color:#D8DFE6;
+	vertical-align: top;
+}
+.desktag
+{
+	width:170px;
+	vertical-align:top;
+	max-width:170px;
+	height:50px !important;
+	background-color:#D8DFE6;
+	
+}
+.desk
+{
+	padding:0px 5px;
+	width:170px;
+	vertical-align:top;
+	max-width:170px;
+	height:160px !important;
+	background-color:#D8DFE6;
+}
+.newsflashtag
+{
+	margin:0px;
+	width:170px;
+	max-width:170px;
+	height:50px !important;
+	vertical-align:middle;
+}
+.newsflash
+{
+	padding:10px;
+	text-align:justify;
+	width:170px;
+	vertical-align:top;
+	max-width:170px;
+	height:320px !important;
+	background-color:#D8DFE6;
+}
+#infomenu
+{
+	display:table-cell;
+	width:150px;
+	height:600px;
+	border:solid 0px;
+	background-color:#D8DFE6;
+	border-left-color:whitesmoke;
+	border-top-color:whitesmoke;
+	border-bottom-color:whitesmoke;
+	border-right:#153450;
+	vertical-align: top;
+}
+#footer
+{
+	width:960px;
+	height:100px;
+	min-height:100px;
+	max-height:800px;
+	border:solid 0px;
+	background-color:#18365f;
+	border-color:#2A75A9;
+	overflow:hidden;
+}
+.marquee
+{
+	width:153px;
+	height:580px;
+	border:0px;
+	display:block;
+}
+.copyright
+{
+padding:4px 2px;
+height:20px;
+width:960px;
+font-size:12px;
+color:ghostwhite;
+border:solid 0px;
+border-top:solid 1px ghostwhite;
+background-color:#006363;
+}
+

@@ -1,0 +1,46 @@
+#footer{
+	padding-top:20px 0;
+	width:960px;
+	height:auto;
+	overflow:hidden;
+	min-height:210px;
+	}
+
+#footer h2{
+	color:ghostwhite;
+	margin-bottom:18px;
+	padding-bottom:12px;
+	border-bottom:1px dashed #999999;
+	}
+#footer ul, #footer a{
+	margin:0;
+	padding:0;
+	font-weight:normal;
+	list-style:none;
+	line-height:normal;
+	color:ghostwhite;
+	}
+#footer .footbox{
+	display:block;
+	float:left;
+	width:190px;
+	margin:0 0 20px 20px;
+	padding:0;
+	}
+
+#footer li{
+	margin-bottom:8px;
+	font-size:14px;
+	}
+
+#footer .last{
+	margin:0;
+	}
+
+#newsletter{
+	
+	display:block;
+	float:left;
+	width:300px;
+	margin-left:15px;
+	}

@@ -1,0 +1,36 @@
+#infomenu
+{  
+	vertical-align:center;
+	font-size:14px;
+	position:relative;
+	padding:10px;
+	list-style: none;
+	overflow:hidden;
+}
+
+#infomenu li 
+{
+	position:relative;
+	margin-top:35px;
+}
+#infomenu  li a
+{
+	display:block;
+	width:120px;
+	padding:7px 0;
+	text-align:center;
+	text-decoration:none;
+	color:gainsboro;
+	background:#18365f;
+	margin-right:0px;
+}
+#infomenu ul
+{
+	list-style:none;
+    margin: 14px;
+    padding: 0px;
+}
+#infomenu ul li a:hover{
+	background:#006363;
+	color:White;
+}

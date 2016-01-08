@@ -1,0 +1,25 @@
+.slideshow{
+	margin-top:3px;
+	margin-left:auto;
+	margin-right:auto;
+	width:598px;
+    height:304px;
+}
+
+/* container for slides */
+.images {
+
+    border:1px solid grey ;
+    position:relative;
+    height:300px;
+	width:597px;
+	margin-left:auto;
+	margin-right:auto;
+	overflow:hidden;
+    cursor:pointer;
+    /* CSS3 tweaks for modern browsers */
+    -moz-border-radius:5px;
+    -webkit-border-radius:5px;
+    -moz-box-shadow:0 0 25px #666;
+    -webkit-box-shadow:0 0 25px #666;
+}
