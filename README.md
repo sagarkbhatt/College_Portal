@@ -7,5 +7,4 @@ Academic project 2014
 
 ->How to use
 
--Update database connection details in connection.php file.
--You can locate database(sql file) from database folder
+-Update database connection details in connection.php file & You can locate database(sql file) in database folder
